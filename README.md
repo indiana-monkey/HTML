@@ -7,7 +7,7 @@
 ## :globe_with_meridians: コンセプト
 - HTML/CSS学習の一環として作成しました。
 
-<a><img src="https://user-images.githubusercontent.com/68488036/110148882-b4a99d00-7e20-11eb-8d42-ddd34fe29386.png" height="800px;" /></a> 
+<a><img src="https://user-images.githubusercontent.com/68488036/110234174-58539400-7f6c-11eb-9a38-b82396d4bdb5.png" height="800px;" /></a> 
 
 ## :paperclip: 主な使用言語
 <a><img src="https://user-images.githubusercontent.com/67769876/99362766-3b308200-28f7-11eb-9573-00e5b481cccc.png" width="70px;" /></a> <!-- HTMLのロゴ -->
@@ -18,4 +18,4 @@
 - チワワのウィキペディアページにアクセスできます。
 
 ## :globe_with_meridians: 課題や今後実装したい機能
-- HTML/CSSの学習としてウェブサイトを作成しましたが、現在新しいウェブサイト作成中です。
+- HTML/CSSの学習としてウェブサイトを作成しましたが、今後はログイン機能などのあるウェブサイトも作成予定です。
