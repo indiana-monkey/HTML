@@ -2,7 +2,7 @@
 <h1 align="center">Pochiのページ</h1>
 
 ## :globe_with_meridians: サイト概要
-- のページです。
+- Pochiのページです。
 
 ## :globe_with_meridians: コンセプト
 - HTML/CSS学習の一環として作成しました。
