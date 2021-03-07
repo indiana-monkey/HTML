@@ -7,7 +7,7 @@
 ## :globe_with_meridians: コンセプト
 - HTML/CSS学習の一環として作成しました。
 
-<a><img src="https://user-images.githubusercontent.com/68488036/110234174-58539400-7f6c-11eb-9a38-b82396d4bdb5.png" height="800px;" /></a> 
+<a><img src="https://user-images.githubusercontent.com/68488036/110234174-58539400-7f6c-11eb-9a38-b82396d4bdb5.png" height="00px;" /></a> 
 
 ## :paperclip: 主な使用言語
 <a><img src="https://user-images.githubusercontent.com/67769876/99362766-3b308200-28f7-11eb-9573-00e5b481cccc.png" width="70px;" /></a> <!-- HTMLのロゴ -->
